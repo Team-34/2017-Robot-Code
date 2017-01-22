@@ -127,6 +127,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Swerve Calibrate.vi" Type="VI" URL="../Swerve Drive Code/Swerve Calibrate.vi"/>
 			<Item Name="Swerve Teleop.vi" Type="VI" URL="../Swerve Drive Code/Swerve Teleop.vi"/>
 			<Item Name="Swerve Wheel.vi" Type="VI" URL="../Swerve Drive Code/Swerve Wheel.vi"/>
+			<Item Name="Trigger Control.vi" Type="VI" URL="../Swerve Drive Code/Trigger Control.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
