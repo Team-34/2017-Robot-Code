@@ -111,6 +111,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Mechanism Code" Type="Folder">
+			<Item Name="BlenderMain.vi" Type="VI" URL="../Mechanism Code/BlenderMain.vi"/>
 			<Item Name="Collision Main.vi" Type="VI" URL="../Mechanism Code/Collision Main.vi"/>
 			<Item Name="Intake Main.vi" Type="VI" URL="../Mechanism Code/Intake Main.vi"/>
 			<Item Name="LiftMain.vi" Type="VI" URL="../Mechanism Code/LiftMain.vi"/>
