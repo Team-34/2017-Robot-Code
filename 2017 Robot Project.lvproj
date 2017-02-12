@@ -113,7 +113,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Mechanism Code" Type="Folder">
 			<Item Name="BlenderMain.vi" Type="VI" URL="../Mechanism Code/BlenderMain.vi"/>
 			<Item Name="Collision Main.vi" Type="VI" URL="../Mechanism Code/Collision Main.vi"/>
-			<Item Name="Intake Main.vi" Type="VI" URL="../Mechanism Code/Intake Main.vi"/>
+			<Item Name="IntakeMain.vi" Type="VI" URL="../Mechanism Code/IntakeMain.vi"/>
 			<Item Name="LiftMain.vi" Type="VI" URL="../Mechanism Code/LiftMain.vi"/>
 			<Item Name="RumbleControl.vi" Type="VI" URL="../Mechanism Code/RumbleControl.vi"/>
 			<Item Name="ServoMain.vi" Type="VI" URL="../Mechanism Code/ServoMain.vi"/>
@@ -872,7 +872,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">19</Property>
+				<Property Name="Bld_version.build" Type="Int">20</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
