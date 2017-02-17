@@ -113,16 +113,8 @@ AddOutputFilter chunkFilter
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
-		<Item Name="Swerve" Type="Folder">
-			<Item Name="Angle Distance.vi" Type="VI" URL="../Swerve Drive Code/Angle Distance.vi"/>
-			<Item Name="Normalize Magnitude.vi" Type="VI" URL="../Swerve Drive Code/Normalize Magnitude.vi"/>
-			<Item Name="Rotate Vector.vi" Type="VI" URL="../Swerve Drive Code/Rotate Vector.vi"/>
-			<Item Name="Swerve Autonomous.vi" Type="VI" URL="../Swerve Drive Code/Swerve Autonomous.vi"/>
-			<Item Name="Swerve Begin.vi" Type="VI" URL="../Swerve Drive Code/Swerve Begin.vi"/>
-			<Item Name="Swerve Calibrate.vi" Type="VI" URL="../Swerve Drive Code/Swerve Calibrate.vi"/>
-			<Item Name="Swerve Teleop.vi" Type="VI" URL="../Swerve Drive Code/Swerve Teleop.vi"/>
-			<Item Name="Swerve Wheel.vi" Type="VI" URL="../Swerve Drive Code/Swerve Wheel.vi"/>
-			<Item Name="Trigger Control.vi" Type="VI" URL="../Swerve Drive Code/Trigger Control.vi"/>
+		<Item Name="Swerve Drive Code" Type="Folder" URL="../Swerve Drive Code">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Team 34 Code" Type="Folder" URL="../Team 34 Code">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
